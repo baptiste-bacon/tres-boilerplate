@@ -11,6 +11,7 @@
   "dependencies": {
     "@tresjs/cientos": "^5.8.1",
     "@tresjs/core": "^5.8.3",
+    "lil-gui": "^0.21.0",
     "three": "^0.185.1",
     "vue": "^3.5.39"
   },
@@ -19,6 +20,7 @@
     "@types/three": "^0.185.0",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vue/tsconfig": "^0.9.1",
+    "sharp": "^0.35.3",
     "typescript": "~6.0.2",
     "vite": "^8.1.1",
     "vite-plugin-glsl": "^1.6.0",

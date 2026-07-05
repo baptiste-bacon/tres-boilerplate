@@ -25,3 +25,4 @@ Dans `Experience.vue` : `showGrid` et `showAxes` contrôlent le `Grid` et l'`Axe
 - Nouveau mesh/objet : ajouter un composant dans `src/scene/` et l'importer dans `Experience.vue`
 - Shader custom : déposer les `.glsl` dans `src/shaders/`, les importer (`import frag from '../shaders/foo.frag.glsl'`) et les passer à un `TresShaderMaterial`
 # tres-boilerplate
+# tres-mairo-bliss
